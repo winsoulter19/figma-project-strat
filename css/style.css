@@ -13,7 +13,7 @@ body {
 }
 .header {
     height: 100vh;
-    background-image: url(../img/bg-1.png);
+    background-image: url(./img/bg-1.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
